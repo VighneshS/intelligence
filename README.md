@@ -16,4 +16,4 @@ This command will download all the required python dependencies for the code to 
 
 After that run the following command to execute the application
 
-> python <TODO>.py 
+> python `<TODO>`.py 
